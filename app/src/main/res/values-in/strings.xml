@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Catalogue Movies</string>
+    <string name="search_hint">Cari film kesukaanmu</string>
+    <string name="label_title">Judul</string>
+    <string name="label_rank">Peringkat</string>
+    <string name="label_date">Tanggal</string>
+    <string name="label_search">Pencarian</string>
+    <string name="label_description">Ringkasan</string>
+    <string name="label_not_search">Kamu tidak mencari film apapun</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Open_Drawer">Buka Navigation Drawer</string>
+    <string name="Close_Drawer">Tutup Navigation Drawer</string>
+    <string name="no_result">Film tidak ditemukan</string>
+    <string name="user_name">Lianda Ramadhana</string>
+    <string name="user_email">lianda.ramadhana31@gmail.com</string>
+    <string name="now_playing">Sedang Tayang</string>
+    <string name="upcoming">Akan Datang</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="account">Akun</string>
+    <string name="settings">Pengaturan</string>
+    <string name="account_page">Ini halaman akun</string>
+    <string name="setting_page">Ini halaman pengaturan</string>
+    <string name="change_language">Ubah Bahasa</string>
+</resources>

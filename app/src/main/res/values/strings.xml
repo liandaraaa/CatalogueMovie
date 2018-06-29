@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Catalogue Movies</string>
+    <string name="search_hint">Search your movie</string>
+    <string name="label_title">Title</string>
+    <string name="label_rank">Rank</string>
+    <string name="label_date">Date</string>
+    <string name="label_search">Search</string>
+    <string name="label_description">Summary</string>
+    <string name="label_not_search">You don\'t search any movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Open_Drawer">Open Navigation Drawer</string>
+    <string name="Close_Drawer">Close Navigation Drawer</string>
+    <string name="no_result">There\'s no result data movie</string>
+    <string name="user_name">Lianda Ramadhana</string>
+    <string name="user_email">lianda.ramadhana31@gmail.com</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+    <string name="account_page">This is account page</string>
+    <string name="setting_page">This is setting page</string>
+    <string name="change_language">Change Language</string>
+</resources>
